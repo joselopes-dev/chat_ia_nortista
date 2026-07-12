@@ -1,0 +1,6 @@
+{
+  "name": "NortistaIA Chat",
+  "description": "Uma Inteligência Artificial brasileira especializada na Região Norte e na Amazônia Legal, focada em democratizar o conhecimento usando exemplos práticos e a cultura da nossa terra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
